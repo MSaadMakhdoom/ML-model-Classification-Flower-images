@@ -1,0 +1,5 @@
+opencv-python
+pickle5
+flask
+numpy
+keras==2.12.0
